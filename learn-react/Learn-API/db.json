@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ip1",
+      "price": 500,
+      "status": true
+    },
+    {
+      "name": "Ip2 update",
+      "price": 200,
+      "status": false,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Ip3",
+      "price": 400,
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "ip4",
+      "price": 400,
+      "status": false
+    },
+    {
+      "name": "ip5",
+      "price": "500",
+      "status": true,
+      "id": 5
+    },
+    {
+      "name": "ip7",
+      "price": "700",
+      "status": "",
+      "id": 6
+    }
+  ]
+}

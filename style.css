@@ -1,0 +1,13 @@
+
+body{
+    background-color: rgb(221, 175, 175);
+}
+h1{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 20px;
+    font: optional;
+    margin-left: 200px;
+}
